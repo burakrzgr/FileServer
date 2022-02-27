@@ -15,8 +15,7 @@ simple-upload-server --help
 
 File upload server v1.1.5
 
-usage: simple-upload-server [options]
-
+usage: double click bat file
 options:
   -p --port    Port number (default: 5000)
   -f --folder  Folder to upload files (default: files)
