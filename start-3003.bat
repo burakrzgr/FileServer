@@ -1,0 +1,1 @@
+npx simple-upload-server -p 3003 -f ..\Pokedex\public\assets\img\pokemons
